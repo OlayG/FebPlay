@@ -12,7 +12,7 @@
 
         <activity android:name=".view.MainActivity" />
 
-        <activity android:name=".view.SecondActivity" >
+        <activity android:name=".view.CalculatorActivity" >
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
