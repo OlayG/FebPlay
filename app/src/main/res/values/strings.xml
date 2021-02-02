@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FebPlay</string>
+    <string name="preference_file_key">MY_APP_PREF</string>
 </resources>
